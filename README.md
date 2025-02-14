@@ -74,6 +74,6 @@
 
 ###
 
-<p align="left">📌 Na GitHub dodaję wyłącznie projekty, które wykonuję w 100% samodzielnie. Nie publikuję projektów ze szkoleń czy poradników, których wykonałem kilkadzięsiąt, ponieważ zależy mi na prezentowaniu unikalnych i autorskich rozwiązań.</p>
+<p align="left">📌 Na GitHub dodaję wyłącznie projekty, które wykonuję w 100% samodzielnie. Nie publikuję projektów ze szkoleń czy poradników, których wykonałem kilkadzięsiąt, ponieważ zależy mi na prezentowaniu autorskich rozwiązań.</p>
 
 ###
