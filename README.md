@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Technologie oraz narzędzia :</p>
+<h1 align="left">Technologie oraz narzędzia :</h1>
 
 ###
 
