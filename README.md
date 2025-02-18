@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Nazywam się Sebastian Burakowski i jestem Frontend Developerem z pasją do tworzenia nowoczesnych i funkcjonalnych stron internetowych. Posiadam wykształcenie wyższe – Inżynier Programowania, które ukończyłem w 2024 roku. <br>Obecnie moimi głównymi narzędziami pracy są : Visual Studio Code, JavaScript, Html oraz Sass.<br>Jestem otwarty na nowe technologie i chętnie poszerzam swoje kompetencje. Finalnie dążę do roli Fullstack Developera, łącząc umiejętności frontendowe i backendowe. 🚀</p>
+<p align="left">Nazywam się Sebastian Burakowski i jestem Frontend Developerem z pasją do tworzenia nowoczesnych i funkcjonalnych stron internetowych. Posiadam wykształcenie wyższe – Inżynier Programowania, które ukończyłem w 2024 roku. Jestem otwarty na nowe technologie i chętnie poszerzam swoje kompetencje. Finalnie dążę do roli Fullstack Developera, łącząc umiejętności frontendowe i backendowe. 🚀</p>
 
 ###
 
